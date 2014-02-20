@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-roll-out",
+  "description": "roll-out animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "roll-out"
+  ],
+  "styles": [
+    "roll-out.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
